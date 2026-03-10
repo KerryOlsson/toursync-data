@@ -1,4 +1,4 @@
-﻿# Version: v1.06,,,,,,
+﻿# Version: v1.07,,,,,,
 TourType,Stop,GalleryID,Gallery,Gallery Time,Start Time,End Time
 Stem Tour,1,ORIENTATION,Orientation,10,9:00,9:10
 Stem Tour,2,RES_CART,Resonator Cart,10,,9:20
@@ -30,9 +30,9 @@ Celebrating Community Tour,4,BATHROOM,Bathroom,15,,10:06
 Celebrating Community Tour,5,US_CAN,US / Canada,17,,10:23
 Celebrating Community Tour,6,EUROPE,Europe,17,,10:40
 Celebrating Community Tour,7,EXPERIENCE,Experience,17,,10:57
-Fiestas! Latin America Tour 3rd-12th,1,LA_BLUE,La Blue,10,9:00,9:10
-Fiestas! Latin America Tour 3rd-12th,2,LA_YELLOW,La Yellow,10,,9:20
-Fiestas! Latin America Tour 3rd-12th,3,LA_RED,La Red,10,,9:30
+Fiestas! Latin America Tour 3rd-12th,1,LA_BLUE,Latin America Blue,10,9:00,9:10
+Fiestas! Latin America Tour 3rd-12th,2,LA_YELLOW,Latin America Yellow,10,,9:20
+Fiestas! Latin America Tour 3rd-12th,3,LA_RED,Latin America Red,10,,9:30
 Fiestas! Latin America Tour 3rd-12th,4,LATIN_AMERICA,Latin America,15,,9:45
 Fiestas! Latin America Tour 3rd-12th,5,BATHROOM,Bathroom,10,,9:55
 Fiestas! Latin America Tour 3rd-12th,6,US_CAN,US / Canada,20,,10:15
@@ -45,9 +45,9 @@ Sounds All Around Tour,4,CONFROOM1,Conference Room 1,20,,10:00
 Sounds All Around Tour,5,ENCORE,Encore,15,,10:15
 Sounds All Around Tour,6,EL_RIO2,El Rio 2nd Floor,10,,10:25
 Sounds All Around Tour,7,TOURCHOICE,Tour Choice of Gallery,45,,11:10
-Fiestas! Latin America Tour K-2,1,LA_BLUE,La Blue,13,9:00,9:13
-Fiestas! Latin America Tour K-2,2,LA_YELLOW,La Yellow,13,,9:26
-Fiestas! Latin America Tour K-2,3,LA_RED,La Red,13,,9:39
+Fiestas! Latin America Tour K-2,1,LA_BLUE,Latin America Blue,13,9:00,9:13
+Fiestas! Latin America Tour K-2,2,LA_YELLOW,Latin America Yellow,13,,9:26
+Fiestas! Latin America Tour K-2,3,LA_RED,Latin America Red,13,,9:39
 Fiestas! Latin America Tour K-2,4,TOURCHOICE,Tour Choice of Gallery,25,,10:04
 Fiestas! Latin America Tour K-2,5,BATHROOM,Bathroom,10,,10:14
 Fiestas! Latin America Tour K-2,6,ENC_EXP,Encore or Experience,15,,10:29
