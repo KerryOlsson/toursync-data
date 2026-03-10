@@ -1,47 +1,55 @@
-﻿# Version: v1.05,,,,,,
+﻿# Version: v1.06,,,,,,
 TourType,Stop,GalleryID,Gallery,Gallery Time,Start Time,End Time
 Stem Tour,1,ORIENTATION,Orientation,10,9:00,9:10
-Stem Tour,2,RES_CART,Reasonator Cart,10,9:10,9:20
-Stem Tour,3,AFRICA,Africa,15,9:20,9:35
-Stem Tour,4,BATHROOM,Bathroom,10,9:20,9:30
-Stem Tour,5,ELEC_CART,Electric Cart,10,9:30,9:40
-Stem Tour,6,US_CAN,United States / Canada,15,9:40,9:55
-Stem Tour,7,STEM_ROOM,STEM,15,9:40,9:55
-Stem Tour,8,EUROPE,Europe ,15,9:55,10:10
-Stem Tour,9,EXPERIENCE,Experience,15,10:10,10:25
-Discovery Tour,1,ORIENTATION,Orientation (Event Room),10,9:00,9:10
-Discovery Tour,2,AFRICA,Africa,15,9:10,9:25
-Discovery Tour,3,ASIA,Asia,15,9:25,9:40
-Discovery Tour,4,OCEANIA_LA,Oceana & Latin America,15,9:40,9:55
-Discovery Tour,5,BATHROOM,Bathroom,10,9:55,10:05
-Discovery Tour,6,US_CAN,US / Canada,20,10:05,10:25
-Discovery Tour,7,EUROPE,Europe,15,10:25,10:40
-Discovery Tour,8,EXPERIENCE,Experience,15,10:40,10:55
-Musical Menagerie Tour,1,ASIA_BLUE,Asia - Blue,20,9:00,9:20
-Musical Menagerie Tour,2,ASIA_YELLOW,Asia - Yellow,20,9:20,9:40
-Musical Menagerie Tour,3,ASIA_RED,Asia - Red,20,9:40,10:00
-Musical Menagerie Tour,4,EXPERIENCE,Experience,15,10:00,10:15
-Musical Menagerie Tour,5,BATHROOM,Bathroom,15,10:15,10:30
-Musical Menagerie Tour,6,CONFROOM1,Musical Story Time/Drumming,25,10:30,10:55
-Celebrating Community Tour,1,AFRICA,Africa / Middle East,17,9:00,9:17
-Celebrating Community Tour,2,ASIA,Asia,17,9:17,9:34
-Celebrating Community Tour,3,OCEANIA_LA,Oceania & Latin America,17,9:34,9:51
-Celebrating Community Tour,4,BATHROOM,Bathroom,15,9:51,10:06
-Celebrating Community Tour,5,US_CAN,US / Canada,17,10:06,10:23
-Celebrating Community Tour,6,EUROPE,Europe,17,10:23,10:40
-Celebrating Community Tour,7,EXPERIENCE,Experience,17,10:40,10:57
-Fiestas! Latin America Tour 3rd-12th,1,LA_BLUE,Latin America - Blue,10,9:00,9:10
-Fiestas! Latin America Tour 3rd-12th,2,LA_YELLOW,Latin America - Yellow,10,9:10,9:20
-Fiestas! Latin America Tour 3rd-12th,3,LA_RED,Latin America - Red,10,9:20,9:30
-Fiestas! Latin America Tour 3rd-12th,4,LA,Latin America - Explore,15,9:30,9:45
-Fiestas! Latin America Tour 3rd-12th,5,BATHROOM,Bathroom,10,9:45,9:55
-Fiestas! Latin America Tour 3rd-12th,6,US_CAN,US / Canada,20,9:55,10:15
-Fiestas! Latin America Tour 3rd-12th,7,ARTIST,Artist,20,10:15,10:35
-Fiestas! Latin America Tour 3rd-12th,8,EXPERIENCE,Experience,20,10:35,10:55
-Sounds All Around Tour,1,US_CAN,US / Canada,15,9:00,9:10
-Sounds All Around Tour,2,EUROPE,Europe,15,9:10,9:20
-Sounds All Around Tour,3,BATHROOM,Bathroom,10,9:20,9:30
-Sounds All Around Tour,4,CONFROOM1,Musical Activity,20,9:30,9:45
-Sounds All Around Tour,5,ENCORE,Encore Gallery,15,9:45,9:55
-Sounds All Around Tour,6,HALL,Distribute Headsets,10,9:55,10:15
-Sounds All Around Tour,7,TOURCHOICE,Choose a Gallery,45,10:15,10:35
+Stem Tour,2,RES_CART,Resonator Cart,10,,9:20
+Stem Tour,3,AFRICA,Africa,15,,9:35
+Stem Tour,4,BATHROOM,Bathroom,10,,9:45
+Stem Tour,5,ELEC_CART,Electric Cart,10,,9:55
+Stem Tour,6,US_CAN,US / Canada,15,,10:10
+Stem Tour,7,STEM_ROOM,STEM,15,,10:25
+Stem Tour,8,EUROPE,Europe,15,,10:40
+Stem Tour,9,EXPERIENCE,Experience,15,,10:55
+Discovery Tour,1,ORIENTATION,Orientation,10,9:00,9:10
+Discovery Tour,2,AFRICA,Africa,15,,9:25
+Discovery Tour,3,ASIA,Asia,15,,9:40
+Discovery Tour,4,OCEANIA_LA,Oceania / Latin America,15,,9:55
+Discovery Tour,5,BATHROOM,Bathroom,10,,10:05
+Discovery Tour,6,US_CAN,US / Canada,20,,10:25
+Discovery Tour,7,EUROPE,Europe,15,,10:40
+Discovery Tour,8,EXPERIENCE,Experience,15,,10:55
+Musical Menagerie Tour,1,ASIA_BLUE,Asia Blue,20,9:00,9:20
+Musical Menagerie Tour,2,ASIA_YELLOW,Asia Yellow,20,,9:40
+Musical Menagerie Tour,3,ASIA_RED,Asia Red,20,,10:00
+Musical Menagerie Tour,4,EXPERIENCE,Experience,15,,10:15
+Musical Menagerie Tour,5,BATHROOM,Bathroom,15,,10:30
+Musical Menagerie Tour,6,CONFROOM1,Conference Room 1,25,,10:55
+Celebrating Community Tour,1,AFRICA,Africa,17,9:00,9:17
+Celebrating Community Tour,2,ASIA,Asia,17,,9:34
+Celebrating Community Tour,3,OCEANIA_LA,Oceania / Latin America,17,,9:51
+Celebrating Community Tour,4,BATHROOM,Bathroom,15,,10:06
+Celebrating Community Tour,5,US_CAN,US / Canada,17,,10:23
+Celebrating Community Tour,6,EUROPE,Europe,17,,10:40
+Celebrating Community Tour,7,EXPERIENCE,Experience,17,,10:57
+Fiestas! Latin America Tour 3rd-12th,1,LA_BLUE,La Blue,10,9:00,9:10
+Fiestas! Latin America Tour 3rd-12th,2,LA_YELLOW,La Yellow,10,,9:20
+Fiestas! Latin America Tour 3rd-12th,3,LA_RED,La Red,10,,9:30
+Fiestas! Latin America Tour 3rd-12th,4,LATIN_AMERICA,Latin America,15,,9:45
+Fiestas! Latin America Tour 3rd-12th,5,BATHROOM,Bathroom,10,,9:55
+Fiestas! Latin America Tour 3rd-12th,6,US_CAN,US / Canada,20,,10:15
+Fiestas! Latin America Tour 3rd-12th,7,ARTIST,Artist,20,,10:35
+Fiestas! Latin America Tour 3rd-12th,8,EXPERIENCE,Experience,20,,10:55
+Sounds All Around Tour,1,US_CAN,US / Canada,15,9:00,9:15
+Sounds All Around Tour,2,EUROPE,Europe,15,,9:30
+Sounds All Around Tour,3,BATHROOM,Bathroom,10,,9:40
+Sounds All Around Tour,4,CONFROOM1,Conference Room 1,20,,10:00
+Sounds All Around Tour,5,ENCORE,Encore,15,,10:15
+Sounds All Around Tour,6,EL_RIO2,El Rio 2nd Floor,10,,10:25
+Sounds All Around Tour,7,TOURCHOICE,Tour Choice of Gallery,45,,11:10
+Fiestas! Latin America Tour K-2,1,LA_BLUE,La Blue,13,9:00,9:13
+Fiestas! Latin America Tour K-2,2,LA_YELLOW,La Yellow,13,,9:26
+Fiestas! Latin America Tour K-2,3,LA_RED,La Red,13,,9:39
+Fiestas! Latin America Tour K-2,4,TOURCHOICE,Tour Choice of Gallery,25,,10:04
+Fiestas! Latin America Tour K-2,5,BATHROOM,Bathroom,10,,10:14
+Fiestas! Latin America Tour K-2,6,ENC_EXP,Encore or Experience,15,,10:29
+Fiestas! Latin America Tour K-2,7,STORY_DRUM,Story Time or Drumming,15,,10:44
+Fiestas! Latin America Tour K-2,8,EXPERIENCE,Experience,15,,10:59
