@@ -1,4 +1,4 @@
-﻿# Version: v1.07,,,,,,
+﻿# Version: v1.08,,,,,,
 TourType,Stop,GalleryID,Gallery,Gallery Time,Start Time,End Time
 Stem Tour,1,ORIENTATION,Orientation,10,9:00,9:10
 Stem Tour,2,RES_CART,Resonator Cart,10,,9:20
@@ -53,3 +53,9 @@ Fiestas! Latin America Tour K-2,5,BATHROOM,Bathroom,10,,10:14
 Fiestas! Latin America Tour K-2,6,ENC_EXP,Encore or Experience,15,,10:29
 Fiestas! Latin America Tour K-2,7,STORY_DRUM,Story Time or Drumming,15,,10:44
 Fiestas! Latin America Tour K-2,8,EXPERIENCE,Experience,15,,10:59
+Artist Residency,1,ElRIO1,El Rio 1st Floor,15,9:45,10:00
+Artist Residency,2,THEATER,Theater,50,10:00,10:50
+Artist Residency,3,BATHROOM,Bathroom,10,10:50,11:00
+Artist Residency,4,GALLERY1,Gallery 1,20,11:00,11:20
+Artist Residency,5,GALLERY2,Gallery 2,20,11:20,11:40
+Artist Residency,6,GALLERY3,Gallery 3,20,11:40,12:00
