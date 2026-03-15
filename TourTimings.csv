@@ -1,4 +1,4 @@
-﻿# Version: 1.20,,,,,,,,,,,,
+# Version: 1.21,,,,,,,,,,,,
 TourType,Stop,GalleryID,Gallery,Gallery Time,Start Time,End Time,Stop Type,Can Remove,Default Removed,Can Move Position,Allowed Positions,Stop ID
 Stem Tour,1,ORIENTATION,Orientation,10,9:00,9:10,Gallery,no,no,no,,1
 Stem Tour,2,RES_CART,Resonator Cart,10,,9:20,Gallery,no,no,no,,2
@@ -9,7 +9,7 @@ Stem Tour,6,US_CAN,US / Canada,15,,10:10,Gallery,no,no,no,,6
 Stem Tour,7,STEM_ROOM,STEM,15,,10:25,Gallery,no,no,no,,7
 Stem Tour,8,EUROPE,Europe,15,,10:40,Gallery,no,no,no,,8
 Stem Tour,9,EXPERIENCE,Experience,15,,10:55,Gallery,no,no,no,,9
-Stem Tour - Drumming,1,CONF_DRUM,Drumming,50,9:00,9:50,Gallery,no,no,yes,first/last,1
+Stem Tour - Drumming,1,CONF_DRUM,Drumming,50,9:00,9:50,Drumming,no,no,yes,first/last,1
 Stem Tour - Drumming,2,ORIENTATION,Orientation,10,,10:00,Gallery,no,no,no,,1
 Stem Tour - Drumming,3,RES_CART,Resonator Cart,10,,10:10,Gallery,no,no,no,,2
 Stem Tour - Drumming,4,AFRICA,Africa,13,,10:23,Gallery,no,no,no,,3
@@ -69,10 +69,9 @@ Fiestas! Latin America Tour K-2,5,BATHROOM,Bathroom,10,,10:25,Bathroom,no,no,yes
 Fiestas! Latin America Tour K-2,6,ENC_EXP,Encore or Experience,15,,10:40,Gallery,no,no,no,,6
 Fiestas! Latin America Tour K-2,7,CONF_FIESTAS,Drumming/Musical Story,15,,10:55,Gallery,no,no,no,,7
 Fiestas! Latin America Tour K-2,4,TOURCHOICE,Tour Choice of Gallery,30,,10:15,Gallery,no,no,no,,4
-Artist Residency,1,ElRIO_ARTIST,Early Arrival Downstairs Galleries,15,9:45,10:00,Gallery,no,no,no,,1
-Artist Residency,2,THEATER,Theater,50,10:00,10:50,Gallery,no,no,no,,2
-Artist Residency,3,BATHROOM,Bathroom,5,10:50,10:55,Bathroom,no,no,yes,Any,3
-Artist Residency,4,AFRICA,Africa,20,11:00,11:15,Gallery,yes,no,no,,4
-Artist Residency,5,ASIA,Asia,20,11:20,11:35,Gallery,yes,yes,no,,5
-Artist Residency,6,LATIN_AMERICA,Latin America,20,11:40,11:55,Gallery,yes,no,no,,6
-Artist Residency,6,US_CAN,US / Canada,20,11:40,12:15,Gallery,yes,no,no,,6
+Artist Residency,2,THEATER,Theater,50,9:45,10:35,Gallery,no,no,yes,first,2
+Artist Residency,3,BATHROOM,Bathroom,5,10:50,10:40,Bathroom,no,no,yes,Any,3
+Artist Residency,4,AFRICA,Africa,20,11:00,11:00,Gallery,yes,no,no,,4
+Artist Residency,5,ASIA,Asia,20,11:20,11:20,Gallery,yes,yes,no,,5
+Artist Residency,6,LATIN_AMERICA,Latin America,20,11:40,11:40,Gallery,yes,no,no,,6
+Artist Residency,7,US_CAN,US / Canada,20,11:40,12:00,Gallery,yes,no,no,,6
