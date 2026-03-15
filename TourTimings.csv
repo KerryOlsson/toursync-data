@@ -1,4 +1,4 @@
-﻿# Version: 1.20,,,,,,,,,,,,
+﻿# Version: 1.22,,,,,,,,,,,,
 TourType,Stop,GalleryID,Gallery,Gallery Time,Start Time,End Time,Stop Type,Can Remove,Default Removed,Can Move Position,Allowed Positions,Stop ID
 Stem Tour,1,ORIENTATION,Orientation,10,9:00,9:10,Gallery,no,no,no,,1
 Stem Tour,2,RES_CART,Resonator Cart,10,,9:20,Gallery,no,no,no,,2
