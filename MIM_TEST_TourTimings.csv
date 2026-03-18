@@ -1,4 +1,4 @@
-#META,MuseumID=MIM_TEST,ContentVersion=1.45,FileType=TourTimings,ExportedAt=2026-03-18T20:47:08Z,,,,,,,,,,
+#META,MuseumID=MIM_TEST,ContentVersion=1.46,FileType=TourTimings,ExportedAt=2026-03-18T21:17:29Z,,,,,,,,,,
 TourType,Stop,GalleryID,Gallery,Gallery Time,Start Time,End Time,Stop Type,Can Remove,Default Removed,Can Move Position,Allowed Positions,Stop ID,RemovalGroup,RequiredActiveCount
 Artist Residency,1,THEATER,Theater,50,9:00 AM,9:50 AM,Gallery,no,no,yes,first,2,,
 Artist Residency,2,BATHROOM,Bathroom,5,9:50 AM,9:55 AM,Bathroom,no,no,yes,any,3,,
