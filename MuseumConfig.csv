@@ -1,2 +1,0 @@
-﻿Active,ActivationCode,MuseumID,MuseumName,LogoName,PrimaryColor,SecondaryColor,BaseContentURL,StartupFile,ContentFiles
-yes,MIM-2026-7X4P,MIM,Musical Instrument Museum,mim_logo,#003366,#F2C94C,https://raw.githubusercontent.com/KerryOlsson/toursync-data/refs/heads/main/,TourTimings.csv,CueCards.csv
