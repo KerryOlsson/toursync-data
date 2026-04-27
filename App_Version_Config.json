@@ -1,0 +1,21 @@
+{
+  "schema_version": "1.0",
+  "ios": {
+    "current_version": "11.53",
+    "minimum_version": "11.40",
+    "app_store_url": "https://apps.apple.com/app/id6759971533"
+  },
+  "android": {
+    "current_version": "11.53",
+    "minimum_version": "11.40",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.toursync.toursyncapp"
+  },
+  "message": {
+    "normal_title": "Update Available",
+    "normal_body": "An updated version of TourSync is available. Updating helps keep the app current.",
+    "deferred_title": "Update Recommended",
+    "deferred_body": "An updated version of TourSync has been available for a while. Please update soon to stay current.",
+    "critical_title": "Update Required",
+    "critical_body": "This version of TourSync needs to be updated before continuing."
+  }
+}
