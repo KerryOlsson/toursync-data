@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0",
   "ios": {
-    "current_version": "11.55",
-    "minimum_version": "11.54",
+    "current_version": "11.53",
+    "minimum_version": "11.40",
     "app_store_url": "https://apps.apple.com/app/id6759971533"
   },
   "android": {
